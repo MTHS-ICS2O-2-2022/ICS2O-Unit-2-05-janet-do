@@ -6,11 +6,13 @@
 "use strict"
 function calculate() {
   // input
-  const base = parseInt(document.getElementById("base").value)
-  const height = parseInt(document.getElementById("height").value)
+  const hours = parseInt(document.getElementById("hours").value)
+  const rate = parseInt(document.getElementById("rate").value)
+  xx = parseFloat(document.getElementById('pay').value)
 
   // process
-  const area = base * height / 2
+  const pay = (hours * rate) * (1 - 0.18)
+  const tax = (hours * rate) * 0.18
 
   // output
   document.getElementById('pay').innerHTML = `Your pay will be: $ ${takeHomeSalary.toFixed(2)}`
