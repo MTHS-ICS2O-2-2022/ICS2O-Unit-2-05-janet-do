@@ -6,7 +6,7 @@
 
 [![Deploy Pages](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-2-04-janet-do/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-2-04-janet-do/actions)
 
-This site can be found at: [https://MTHS-ICS2O-2-2022.github.io/ICS2O-Unit-2-04-janet-do](https://MTHS-ICS2O-2-2022.github.io/ICS2O-Unit-2-04-janet-do)
+This site can be found at: [https://mths-ics2o-2-2022.github.io/ICS2O-Unit-2-05-janet-do/](https://mths-ics2o-2-2022.github.io/ICS2O-Unit-2-05-janet-do/)
 
 ---
 
