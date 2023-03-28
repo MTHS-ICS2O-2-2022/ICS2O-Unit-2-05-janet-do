@@ -5,6 +5,7 @@
 // This file generates pay and tax deductions
 
 "use strict"
+
 function calculate() {
   const deductions = 0.18
   // input
